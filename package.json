@@ -1,0 +1,26 @@
+{
+  "name": "set_upload_test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcortesr/s3_backend_connection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcortesr/s3_backend_connection/issues"
+  },
+  "homepage": "https://github.com/hcortesr/s3_backend_connection#readme",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.15.30",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
